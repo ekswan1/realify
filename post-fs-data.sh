@@ -61,8 +61,6 @@ remove_lowend_features()
     remove_feature com.android.launcher.light_animator
     remove_feature com.oppo.launcher.light_animator
     remove_feature com.android.launcher.light_folder_animation
-    # Enable Volume Blur
-    remove_feature com.android.systemui.disable_volume_blur
     # Enables blur in the majority of the UI
     remove_feature com.android.systemui.gauss_blur_disabled
     remove_feature com.android.systemui.pan_view_gauss_blur_disabled
